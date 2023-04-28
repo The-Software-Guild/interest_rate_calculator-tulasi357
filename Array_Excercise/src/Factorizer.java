@@ -4,7 +4,7 @@ import java.text.DecimalFormat;
 public class Factorizer {
 
 	public static void main(String[] args) {
-		// create an object of Scanner class to read the user input
+		// create an object of Scanner class to read the user input ddgdfg sdsf
 	    Scanner input = new Scanner(System.in);
 	    try {
 		    // take input from users
